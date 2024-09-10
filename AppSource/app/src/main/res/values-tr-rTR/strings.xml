@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Not Tut</string>
+    <string name="not_silindi">Not Silindi</string>
+    <string name="geri_al">Geri Al</string>
+    <string name="not_bulunamadi">Not Bulunamadı</string>
+    <string name="uygulamayi_kapat">Uygulamayı kapat</string>
+    <string name="root_tespit_edildi">Root Tespit Edildi</string>
+    <string name="cihaz_bir_emulator_uzerinde_calisiyor">Cihaz Bir Emülatör Üzerinde Çalışıyor</string>
+    <string name="root_icerigi">Güvenliğinizi ve uygulama bütünlüğünü korumak için, bu uygulama root erişimi olan cihazlarda çalışmamaktadır. Lütfen cihazınızı root\'suz bir duruma getirerek tekrar deneyin.</string>
+    <string name="emulator_icerigi">Bu uygulama gerçek cihazlar üzerinde çalışmak üzere tasarlanmıştır. Emülatör kullanımı tespit edildi. Lütfen gerçek bir cihazda çalıştırarak tekrar deneyin.</string>
+    <string name="favori_not_bulunamadi">Favori Not Bulunamadı</string>
+    <string name="ekle_duzenle">Ekle/Düzenle</string>
+    <string name="baslik">Başlık</string>
+    <string name="tarih">Tarih</string>
+    <string name="icerik">İçerik</string>
+    <string name="baslik_bos_birakilamaz">Başlık Boş bırakılamaz.</string>
+    <string name="icerik_bos_birakilamaz">İçerik boş bırakılamaz.</string>
+
+    <string name="acik">Açık</string>
+    <string name="kapali">Kapalı</string>
+
+    <string name="tema">Tema</string>
+    <string name="tema_acik">Açık</string>
+    <string name="tema_koyu">Koyu</string>
+    <string name="tema_sistem">Sistem Varsayılanı</string>
+
+    <string name="baslangic_sayfasi">Başlangıç Sayfası</string>
+    <string name="tum_notlar">Tüm Notlar</string>
+    <string name="favoriler">Favoriler</string>
+
+    <string name="dil">Dil</string>
+    <string name="turkce">Türkçe</string>
+    <string name="ingilizce">İngilizce</string>
+
+    <string name="koseden_Koseye">Köşeden Köşeye</string>
+    <string name="guncellemeleri_denetle">Güncellemeleri Denetle</string>
+    <string name="parola_ekle">Parola Ekle</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="tema_sec">Tema Seç</string>
+    <string name="dil_sec">Dil Seç</string>
+    <string name="bilinmiyor">Bilinmiyor</string>
+    <string name="not_tut_hakkında">Not Tut Hakkında</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="kutuphaneler">Kütüphaneler</string>
+    <string name="hata">Hata</string>
+    <string name="renk">Renk</string>
+    <string name="dinamik_renk">Dinamik Renk</string>
+    <string name="vazgec">Vazgeç</string>
+    <string name="onayla">Onayla</string>
+    <string name="reset_all_settings_baslik">Ayarları Sıfırla</string>
+    <string name="reset_all_settings_icerik">Seçenekleri varsayılanlara sıfırlamak istediğinizden emin misiniz?</string>
+    <string name="yetersiz_android_surumu_baslik">Yetersiz Sürüm</string>
+    <string name="yetersiz_android_surumu_icerik">Bu seçenek sadece Android 12+ sürümlerinde çalışmaktadır.</string>
+    <string name="tamam">Tamam</string>
+    <string name="bildirim_izni_reddedildi">Uygulamanın güncellemeler hakkında sizi bilgilendirebilmesi için bildirim iznine ihtiyacı var.</string>
+    <string name="bildirim_izni_kalici_olarak_reddedildi">Bildirim iznini kalıcı olarak reddetmiş görünüyorsunuz. Güncellemelerden haberdar olmak için ayarlardan izni etkinleştirebilirsiniz.</string>
+    <string name="izin_ver">İzin ver</string>
+    <string name="ayarlara_git">Ayarlara git</string>
+    <string name="izin_gerekli">İzin gerekli</string>
+    <string name="indirme_basarisiz">İndirme Başarısız</string>
+    <string name="sonra">Sonra</string>
+    <string name="yeni_versiyonu_indirmekte_problem_yasiyorsaniz">Yeni versiyonu indirmekte problem yaşandı. İsterseniz ".apk" dosyasını tarayıcıdan manuel olarak indirmeyi deneyebilirsiniz.</string>
+    <string name="yeni_versiyonu_heyecanla_bekliyorum">Yeni versiyonu heyecanla bekliyorum</string>
+    <string name="parola_korumasi_cok_yakında">Parola Koruması Çok Yakında!</string>
+    <string name="bu_ozellik_ile_uygulamaniza_parola_ekleyerek_daha_guvenli_hale_getirebileceksiniz">Bu özellik ile uygulamanıza parola ekleyerek daha güvenli hale getirebileceksiniz. Özelliği sonraki versiyonlarda ekleyeceğiz..</string>
+    <string name="yeni_surum_downloads_klasorune_indiriliyor">Yeni sürüm "Downloads" klasörüne indiriliyor, bildirim panelinden takip edebilirsiniz..</string>
+    <string name="kullanılan_kutuphaneler_baslik">Kullanılan Kütüphaneler</string>
+    <string name="kullanılan_kutuphaneler_icerik">Bu uygulamanın geliştirilmesinde yararlanılan açık kaynak kütüphaneler listelenmiştir.</string>
+    <string name="versiyon">Versiyon</string>
+    <string name="arkadaslariniza_ve_ailenize_onerin">Arkadaşlarınıza ve ailenize önerin!</string>
+    <string name="iletisime_gecebilirsiniz">Sorularınız, önerileriniz veya bulduğunuz hatalar için iletişime geçebilirsiniz!</string>
+    <string name="mustafa_toktasin_gelistirdigi">Mustafa TOKTAŞ\'ın geliştirdiği "Not Tut" isimli uygulamanın Github Linki:</string>
+    <string name="eposta_uygulamasi_bulunamadi">E-posta uygulaması bulunamadı</string>
+    <string name="paylasim_yapilamadi">Paylaşım yapılamadı</string>
+    <string name="bilinmeyen_bir_hata_olustu">Bilinmeyen bir hata oluştu.</string>
+    <string name="indir">İndir</string>
+    <string name="guncelleme_bulundu">Güncelleme Bulundu</string>
+    <string name="uygulamaniz_guncel">Uygulamanız güncel.</string>
+    <string name="harika">Harika</string>
+    <string name="a_z">A-Z</string>
+    <string name="z_a">Z-A</string>
+    <string name="duzenleme_etkinlestir_uyarisi">Lütfen önce düzenlemeyi aktif ediniz.</string>
+</resources>
