@@ -1,12 +1,17 @@
-<a name="readme-top"></a>
-
-<h1 align="center">Take Note</h1>
+<h1 align="center">
+  Take Note <a name="readme-top"></a>
+</h1>
 
 <div align="center">
   <img src="../../Readme Resources/Not Tut Logo.png" alt="Logo" width="120"/>
 </div>
 
-## Contents
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>Contents</h2>
+  <div>
+    <a href="../../Readme.md" target="_blank">Türkçe</a> | English
+  </div>
+</div>
 
 - [About the Application](#about-the-application)
 - [Screenshots](#screenshots)
@@ -17,10 +22,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-<div align="right">
-    <a href="../../Readme.md" target="_blank">Türkçe</a>
-</div>
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)
