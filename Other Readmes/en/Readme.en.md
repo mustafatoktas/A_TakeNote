@@ -6,12 +6,11 @@
   <img src="../../Readme Resources/Not Tut Logo.png" alt="Logo" width="120"/>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2>Contents</h2>
-  <div>
-    <a href="../../Readme.md" target="_blank">Türkçe</a> | English
-  </div>
+<div align="right">
+  <a href="../../Readme.md" target="_blank">Türkçe</a> | English
 </div>
+
+## Contents  
 
 - [About the Application](#about-the-application)
 - [Screenshots](#screenshots)

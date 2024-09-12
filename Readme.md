@@ -6,12 +6,11 @@
   <img src="./Readme Resources/Not Tut Logo.png" alt="Logo" width="120"/>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2>İçindekiler</h2>
-  <div>
-    Türkçe | <a href="./Other Readmes/en/Readme.en.md" target="_blank">English</a>
-  </div>
+<div align="right">
+  Türkçe | <a href="./Other Readmes/en/Readme.en.md" target="_blank">English</a>
 </div>
+
+## İçindekiler  
 
 - [Uygulama Hakkında](#uygulama-hakkında)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
@@ -223,8 +222,8 @@ Projeye katkıda bulunmak isteyenler için katkı kuralları ve adımları [cont
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
-<div align="center">2hkuemfzs8dv59c
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+<div align="center">
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=2hkuemfzs8dv59c&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
 </div>
 
 <br>

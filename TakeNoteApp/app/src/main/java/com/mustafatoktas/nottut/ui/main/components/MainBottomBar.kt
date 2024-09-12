@@ -15,7 +15,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
-import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
@@ -27,7 +26,6 @@ import com.mustafatoktas.nottut.ui.navigation.Destination
 @Composable
 fun MainBottomBar(
     subNavController: NavHostController,
-    modifier: Modifier = Modifier,
 ) {
     val context = LocalContext.current
     var selectedItemIndex by rememberSaveable { mutableStateOf(0) }
@@ -55,9 +53,7 @@ fun MainBottomBar(
         }
     }
 
-    BottomAppBar(
-        modifier = modifier,
-    ) {
+    BottomAppBar {
         bottomItems.forEachIndexed { index, item ->
             NavigationBarItem(
                 selected = selectedItemIndex == index,
