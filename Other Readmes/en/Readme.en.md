@@ -115,11 +115,11 @@ Screenshots are taken from the `v1.0.0` version of the application. The interfac
 - `Github API`
 - `ProGuard`
 
-[libs.versions.toml](../../AppSource/gradle/libs.versions.toml)
+[libs.versions.toml](../../TakeNoteApp/gradle/libs.versions.toml)
 
-[**Root Directory** build.gradle.kts](../../AppSource/build.gradle.kts)
+[**Root Directory** build.gradle.kts](../../TakeNoteApp/build.gradle.kts)
 
-[**App Module** build.gradle.kts](../../AppSource/app/build.gradle.kts)
+[**App Module** build.gradle.kts](../../TakeNoteApp/app/build.gradle.kts)
 
 ![MVVM Architecture](../../Readme%20Resources/Mimari/MVVM.png)
 

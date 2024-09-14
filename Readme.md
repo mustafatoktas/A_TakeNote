@@ -117,11 +117,11 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 - `Github API`
 - `ProGuard`
 
-[libs.versions.toml](./AppSource/gradle/libs.versions.toml)
+[libs.versions.toml](./TakeNoteApp/gradle/libs.versions.toml)
 
-[**Kök Dizin** build.gradle.kts](./AppSource/build.gradle.kts)
+[**Kök Dizin** build.gradle.kts](./TakeNoteApp/build.gradle.kts)
 
-[**Uygulama Modülü** build.gradle.kts](./AppSource/app/build.gradle.kts)
+[**Uygulama Modülü** build.gradle.kts](./TakeNoteApp/app/build.gradle.kts)
 
 ![MVVM Mimari Yapısı](./Readme%20Resources/Mimari/MVVM.png)
 
