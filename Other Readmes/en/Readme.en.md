@@ -1,5 +1,5 @@
 <h1 align="center">
-  Take Note <a name="readme-top"></a>
+Take Note<a name="readme-top"></a>
 </h1>
 
 <div align="center">
@@ -213,7 +213,7 @@ Screenshots are taken from the `v1.0.0` version of the application. The interfac
 
 ## Contributing
 
-Contribution rules and steps for those who want to contribute to the project are explained in the [contributing.md file](./Contributing.en.md).
+Contribution rules and steps for those who want to contribute to the project are explained in the [contributing file](./Contributing.en.md).
 
 
 ![-----------------------------------------------------](../../Readme%20Resources/Çizgi.png)

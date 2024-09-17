@@ -1,5 +1,5 @@
 <h1 align="center">
-  Take Note <a name="readme-top"></a>
+Take Note<a name="readme-top"></a>
 </h1>
 
 <div align="center">
@@ -217,7 +217,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ## Katkıda Bulunma
 
-Projeye katkıda bulunmak isteyenler için katkı kuralları ve adımları [contributing.md dosyasında](./Contributing.md) açıklanmıştır.
+Projeye katkıda bulunmak isteyenler için katkı kuralları ve adımları [contributing](./Contributing.md) dosyasında açıklanmıştır.
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
