@@ -104,7 +104,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
   - Room
   - KSP
   - Serialization
-  - Splash Sreen
+  - Splash Screen
   - Data Store
   - Coroutines
   - Hilt
