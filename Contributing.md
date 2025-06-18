@@ -1,76 +1,79 @@
-# Katkıda Bulunma Rehberi
+# Katkı Rehberi 
 
-Projeye ilgi gösterdiğiniz için teşekkür ederim! Bu rehber, projeye nasıl katkıda bulunabileceğinize dair bilgiler içermektedir.
+Projeye ilginiz için teşekkürler🥳 Bu rehber, projeye nasıl katkıda bulunabileceğiniz
+konusunda size yol gösterecektir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Başlarken
 
-Projeye katkıda bulunmadan önce lütfen aşağıdaki adımları takip edin.
+Projeye katkıda bulunmadan önce aşağıdaki adımları takip edin:
 
-1. Projeyi GitHub'dan forklayın.
-2. Forkladığınız projeyi yerel bilgisayarınıza klonlayın.
+1. Projeyi GitHub'dan `fork` layın.
+2. Forkladığınız projeyi bilgisayarınıza `clone` layın.
 3. Yeni bir `branch` oluşturarak değişikliklerinizi bu `branch` üzerinde yapın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
-## Katkıda Bulunma Süreci
+## Katkı Süreci
 
-Katkıda bulunmak için aşağıdaki adımları izleyin.
+Katkıda bulunurken aşağıdaki adımları izleyin:
 
-1. Değişiklik yapmadan önce benzer bir işlemin zaten yapılmadığından emin olun.
-2. Değişikliklerinizi açık ve anlaşılır commit mesajları ile `commit` edin.
-3. Değişikliklerinizle ilgili açıklayıcı bir `pull request` oluşturun.
+1. Benzer bir değişikliğin daha önce yapılmadığından emin olun.
+2. Değişikliklerinizi **açıklayıcı ve anlaşılır** commit mesajlarıyla kaydedin.
+3. Açıklayıcı bir `pull request` oluşturarak değişikliklerinizi paylaşın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
-## İyi Uygulamalar
+## Dikkat Edilmesi Gerekenler
 
-Katkıda bulunurken aşağıdaki iyi uygulamaları takip etmek projenin kalitesini ve işbirliğini artırır.
+Projeye katkı yaparken aşağıdaki noktalara dikkat etmek iş birliğini ve kod kalitesini artıracaktır:
 
 - **Kod Standartlarına Uyun**
 
-  Projede belirlenen kodlama standartlarına ve stil rehberlerine uyun.
+  Projedeki kodlama kurallarına ve stil rehberine bağlı kalın.
 
-- **Yenilikçi Olun**
+- **Yeni Fikirler Üretin**
 
-  Yeni fikirler getirmekten çekinmeyin, ancak projenin genel amacını ve yapısını göz önünde bulundurun.
+  Yaratıcı çözümler üretmekten çekinmeyin ancak projenin genel yapısını ve amacını göz önünde bulundurmayı unutmayın.
 
-- **Sorunları ve Hataları Bildirin**
+- **Hataları ve Eksikleri Bildirin**
 
-  Karşılaştığınız sorunları ve hataları açık bir şekilde rapor edin.
+  Karşılaştığınız hataları veya eksik gördüğünüz noktaları açık ve anlaşılır bir şekilde paylaşın.
 
-- **Belgeleri Güncelleyin**
+- **Belgeleri Güncel Tutun**
 
-  Yaptığınız değişiklikler belgeleri etkiliyorsa lütfen gerekli güncellemeleri yapın.
+  Yaptığınız değişiklikler belgeleri etkiliyorsa ilgili güncellemeleri de eklemeyi unutmayın.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Geri Bildirim
 
-- Geri bildiriminiz benim için çok değerlidir. Soru, fikir veya öneri bildirmek için
-  [Discussions sayfasını](https://github.com/mustafatoktas/A_TakeNote/discussions),
-  sorun bildirmek için ise [issues sayfasını](https://github.com/mustafatoktas/A_TakeNote/issues) kullanabilirsiniz.
+- Geri bildiriminiz benim için çok değerlidir. Öneri, soru veya fikir paylaşmak için
+  [discussions sayfasını](https://github.com/mustafatoktas/A_TakeNote/discussions),  
+  hata veya eksiklikleri bildirmek için ise
+  [issues sayfasını](https://github.com/mustafatoktas/A_TakeNote/issues) kullanabilirsiniz.
   
-- `Pull request`'lerinizde net ve kapsamlı bilgiler sağlayın, böylece inceleme süreci hızlanır.
+- `Pull request` oluştururken lütfen açıklamalarınızı net ve detaylı yazın.
+  Bu sayede değişiklikleriniz daha hızlı değerlendirilebilir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Katkıda Bulunma İçin Fikirler
 
-Eğer katkıda bulunmak istiyor ancak nereden başlayacağınızı bilmiyorsanız işte bazı fikirler:
-- Kod hatalarını düzeltmek.
-- Belgeleri iyileştirmek veya eksik kısımları tamamlamak.
-- Kullanıcı deneyimini iyileştirecek yeni özellikler eklemek.
-- Performans iyileştirmeleri yapmak.
+Katkıda bulunmak istiyor ancak nereden başlayacağınızı bilmiyorsanız şu fikirleri değerlendirebilirsiniz:
+- Kod hatalarını düzeltmek
+- Eksik veya geliştirilmesi gereken belgeleri güncellemek
+- Kullanıcı deneyimini iyileştirecek yeni özellikler eklemek
+- Performans optimizasyonları yapmak
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Sorunlar ve Pull Request'ler
 
@@ -78,14 +81,14 @@ Projeye katkıda bulunmadan önce [mevcut issues'ları](https://github.com/musta
 [açık pull request'leri](https://github.com/mustafatoktas/A_TakeNote/pulls) inceleyin. Benzer bir konu üzerinde çalışılıyor olabilir.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Teşekkürler!
 
-Projeye gösterdiğiniz ilgi ve katkılarınız için teşekkür ederim. Her katkı, projenin büyümesine ve gelişmesine yardımcı olur!
+Projeye gösterdiğiniz ilgi ve katkılarınız için teşekkür ederim. Her katkı, projeyi bir adım ileri taşır 🚀
 
 <br>
 
-<p align="center">
-  <a href="#katkıda-bulunma-rehberi"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
-</p>
+<div align="center">
+  <a href="#katkı-rehberi"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>
